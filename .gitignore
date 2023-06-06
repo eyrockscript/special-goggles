@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+faiss_index
+faiss_index_csv
+faiss_index_unstructured
+source
